@@ -1,4 +1,4 @@
-<div align="center">
+
 | Name                  | Github                                                        
 | --------------------- | ------------------------------------------------------------- 
 | BinayakJha              | [@BinayakJha](https://github.com/BinayakJha).              |
