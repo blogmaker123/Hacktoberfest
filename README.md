@@ -14,7 +14,11 @@
 </div>
 
 📢 **Register [here](https://hacktoberfest.digitalocean.com) for Hacktoberfest and make four pull requests (PRs) between October 1st-31st to grab free SWAGS 🔥.**
-<br><br><br>
+<br>
+ <a href="https://hacktoberfest.digitalocean.com/">
+        <img src="https://raw.githubusercontent.com/Saiyam7404/HACKTOBERFEST2021_INSPIRATION/main/src/HacktoberFest2021.png">
+    </a>
+<br>
 **IMPORTANT  While making pull request dont forget to add your username ang Github link in [CONTRIBUTERS.MD](https://github.com/blogmaker123/Hacktoberfest/blob/main/CONTRIBUTERS.MD), so that you name will be shown in the contributers.**
 ## Contribution Rules
 - Pull requests can be submitted to any opted-in repository on GitHub or GitLab.
