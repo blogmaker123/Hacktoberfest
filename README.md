@@ -15,7 +15,7 @@
 
 📢 **Register [here](https://hacktoberfest.digitalocean.com) for Hacktoberfest and make four pull requests (PRs) between October 1st-31st to grab free SWAGS 🔥.**
 <br><br><br>
-**IMPORTANT  While making pull request dont forget to add your username ang Github link in CONTRIBUTERS.MD, so that you name will be shown in the contributers.**
+**IMPORTANT  While making pull request dont forget to add your username ang Github link in [CONTRIBUTERS.MD](https://github.com/blogmaker123/Hacktoberfest/blob/main/CONTRIBUTERS.MD), so that you name will be shown in the contributers.**
 ## Contribution Rules
 - Pull requests can be submitted to any opted-in repository on GitHub or GitLab.
 - The pull request must contain commits you made yourself.
