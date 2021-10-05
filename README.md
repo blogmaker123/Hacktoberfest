@@ -12,4 +12,5 @@
 <a href="https://github.com/blogmaker123/Hacktoberfest/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/blogmaker123/Hacktoberfest?color=2b9348"></a>
 
 </div>
+
 📢 **Register [here](https://hacktoberfest.digitalocean.com) for Hacktoberfest and make four pull requests (PRs) between October 1st-31st to grab free SWAGS 🔥.**
