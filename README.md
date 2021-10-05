@@ -24,7 +24,7 @@
 - This year, the first 50,000 participants can earn a T-shirt.
 ---
 
-### IMPORTANT  While making pull request dont forget to add your username in CONTRIBUTERS.MD, so that you name will be shown in the contributers.
+### IMPORTANT  While making pull request dont forget to add your username ang Github link in CONTRIBUTERS.MD, so that you name will be shown in the contributers.
 
 ## Contributers Till Now
 | Name                  | Github                                                        
