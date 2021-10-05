@@ -24,6 +24,7 @@
 - To get a shirt, you must make four approved pull requests (PRs) on opted-in projects between October 1-31 in any time zone.
 - This year, the first 50,000 participants can earn a T-shirt.
 - **No Spamming**
+- **Go Through [CONTRIBUTING.md](https://github.com/blogmaker123/Hacktoberfest/blob/main/CONTRIBUTING.md)[very very important]
 ---
 
 
