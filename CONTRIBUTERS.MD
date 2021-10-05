@@ -7,3 +7,5 @@
 | creepygal           | [@creepygal](https://github.com/creepygal).              |
 | AdityaWadkar           | [@AdityaWadkar](https://github.com/AdityaWadkar).              |
 | blogmaker123           | [@blogmaker123](https://github.com/blogmaker123).              |
+| RoshniP           | [@RoshniP](https://github.com/RoshniP).              |
+| bijuakhil555           | [@bijuakhil555](https://github.com/bijuakhil555).              |
