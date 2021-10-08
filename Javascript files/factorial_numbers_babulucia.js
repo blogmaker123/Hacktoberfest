@@ -10,3 +10,4 @@ const factorialOfNumber = number =>
 // Examples
 factorialOfNumber(4); // 24
 factorialOfNumber(8); // 40320 
+
