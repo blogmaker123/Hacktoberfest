@@ -51,6 +51,7 @@
 | chengn1560          | [@chengn1560](https://github.com/chengn1560).              |
 | Suraj052          | [@Suraj052](https://github.com/Suraj052).              |
 | AnukIndipa          | [@anukindipa](https://github.com/anukindipa).              |
+| Pallaav          | [@Pallaav](https://github.com/Pallaav).              |
 
 <br><br>
 <a href="https://hacktoberfest.digitalocean.com/">
