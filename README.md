@@ -56,6 +56,7 @@
 | Samm                 | [@sammkodes96](https://github.com/sammkodes96).              |
 | snehalbera               | [@snehalbera](https://github.com/snehalbera).              |
 | deepakumar               | [@deepakumarvu](https://github.com/deepakumarvu).              |
+| snehalbera              | [@snehalbera](https://github.com/snehalbera).              |
 <br><br>
 <a href="https://hacktoberfest.digitalocean.com/">
         <img src="https://raw.githubusercontent.com/Saiyam7404/HACKTOBERFEST2021_INSPIRATION/main/src/HacktoberFest2021.png" style="border-radius:8px !important;">
