@@ -25,3 +25,4 @@
 | snehalbera               | [@snehalbera](https://github.com/snehalbera).              |
 | deepakumar               | [@deepakumarvu](https://github.com/deepakumarvu).              |
 | snehalbera              | [@snehalbera](https://github.com/snehalbera).              |
+| hr1shita              | [@hr1shita](https://github.com/hr1shita).              |
