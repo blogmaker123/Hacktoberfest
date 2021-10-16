@@ -53,6 +53,7 @@
 | AnukIndipa          | [@anukindipa](https://github.com/anukindipa).              |
 | Pallaav          | [@Pallaav](https://github.com/Pallaav).              |
 | Soham20chak          | [@Soham20chak](https://github.com/Soham20chak).              |
+| snehalbera               | [@snehalbera](https://github.com/snehalbera).              |
 
 <br><br>
 <a href="https://hacktoberfest.digitalocean.com/">
