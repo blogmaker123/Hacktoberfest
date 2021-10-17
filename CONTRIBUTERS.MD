@@ -26,3 +26,4 @@
 | deepakumar               | [@deepakumarvu](https://github.com/deepakumarvu).              |
 | snehalbera              | [@snehalbera](https://github.com/snehalbera).              |
 | SamSomyajit              | [@Samsomyajit](https://github.com/Samsomyajit).              |
+| TheHanyu          | [@TheHanyu](https://github.com/TheHanyu).              |
