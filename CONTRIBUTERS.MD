@@ -33,3 +33,4 @@
 |Soaham12        |[@Soaham12](https://github.com/Soaham12).              |
 | JVBravoo       | [@JVBravoo](https://github.com/JVBravoo).             |
 |Anish_Shilpakar | [@juju2181](https://github.com/juju2181).             |
+|Akanksha Singh  |  [@akanksha57](https://github.com/akanksha57).
