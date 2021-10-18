@@ -1,3 +1,4 @@
+
 | Name           | Github                                                |
 | -------------- | ----------------------------------------------------- |
 | BinayakJha     | [@BinayakJha](https://github.com/BinayakJha).         |
@@ -27,5 +28,8 @@
 | SamSomyajit    | [@Samsomyajit](https://github.com/Samsomyajit).       |
 | TheHanyu       | [@TheHanyu](https://github.com/TheHanyu).             |
 | Shinchan7404   | [@Shinchan7404](https://github.com/Shinchan7404).     |
-| johndao1005    | [@johndao1005](https://github.com/johndao1005).       |
+|johndao1005     |[@johndao1005](https://github.com/johndao1005).        |
+| Samarth-Khatri | [@Samarth-Khatri](https://github.com/Samarth-Khatri). |
+|Soaham12        |[@Soaham12](https://github.com/Soaham12).              |
 | JVBravoo       | [@JVBravoo](https://github.com/JVBravoo).             |
+

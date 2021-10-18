@@ -61,6 +61,8 @@
 | TheHanyu          | [@TheHanyu](https://github.com/TheHanyu).    |
 | Shinchan7404          | [@Shinchan7404](https://github.com/Shinchan7404).    |
 |johndao1005            |[@johndao1005](https://github.com/johndao1005).    |
+| Samarth-Khatri          | [@Samarth-Khatri](https://github.com/Samarth-Khatri).              |
+|Soaham12         |[@Soaham12](https://github.com/Soaham12).    |
 <br><br>
 <a href="https://hacktoberfest.digitalocean.com/">
         <img src="https://raw.githubusercontent.com/Saiyam7404/HACKTOBERFEST2021_INSPIRATION/main/src/HacktoberFest2021.png" style="border-radius:8px !important;">
