@@ -27,3 +27,4 @@
 | snehalbera              | [@snehalbera](https://github.com/snehalbera).              |
 | SamSomyajit              | [@Samsomyajit](https://github.com/Samsomyajit).              |
 | TheHanyu          | [@TheHanyu](https://github.com/TheHanyu).              |
+| Shinchan7404          | [@Shinchan7404](https://github.com/Shinchan7404).    |
