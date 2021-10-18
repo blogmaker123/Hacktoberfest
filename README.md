@@ -58,7 +58,8 @@
 | deepakumar               | [@deepakumarvu](https://github.com/deepakumarvu).              |
 | snehalbera              | [@snehalbera](https://github.com/snehalbera).              |
 | SamSomyajit              | [@Samsomyajit](https://github.com/Samsomyajit).              |
-| TheHanyu          | [@TheHanyu](https://github.com/TheHanyu).    
+| TheHanyu          | [@TheHanyu](https://github.com/TheHanyu).    |
+| Shinchan7404          | [@Shinchan7404](https://github.com/Shinchan7404).    |
 <br><br>
 <a href="https://hacktoberfest.digitalocean.com/">
         <img src="https://raw.githubusercontent.com/Saiyam7404/HACKTOBERFEST2021_INSPIRATION/main/src/HacktoberFest2021.png" style="border-radius:8px !important;">
