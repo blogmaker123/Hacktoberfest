@@ -1,6 +1,6 @@
 
 | Name                  | Github                                                        
-| --------------------- | ------------------------------------------------------------- 
+| --------------------- | -------------------------------------------------------------
 | BinayakJha              | [@BinayakJha](https://github.com/BinayakJha).              |
 | Prashim-hack              | [@Prashim-hack](https://github.com/Prashim-hack).              |
 | Shubham-Jha99            | [@Shubham-Jha99](https://github.com/Shubham-Jha99).              |
@@ -27,3 +27,4 @@
 | snehalbera              | [@snehalbera](https://github.com/snehalbera).              |
 | SamSomyajit              | [@Samsomyajit](https://github.com/Samsomyajit).              |
 | TheHanyu          | [@TheHanyu](https://github.com/TheHanyu).              |
+| Samarth-Khatri          | [@Samarth-Khatri](https://github.com/Samarth-Khatri).              |
