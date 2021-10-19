@@ -35,3 +35,4 @@
 |Anish_Shilpakar | [@juju2181](https://github.com/juju2181).             |
 |Akanksha Singh  |  [@akanksha57](https://github.com/akanksha57).        |
 |Vishal Sharma   |  [@mrvishalsharma](https://github.com/mrvishalsharma).|
+|Chandradhar Rao |  [@chandradharrao](https://github.com/chandradharrao).|
