@@ -66,6 +66,7 @@
 |Soaham12        |[@Soaham12](https://github.com/Soaham12).              |
 | JVBravoo       | [@JVBravoo](https://github.com/JVBravoo).             |
 |Akanksha Singh  |  [@akanksha57](https://github.com/akanksha57).        |
+|Vishal Sharma   |  [@mrvishalsharma](https://github.com/mrvishalsharma).|
 |Chandradhar Rao |  [@chandradharrao](https://github.com/chandradharrao).|
 
 <br><br>
