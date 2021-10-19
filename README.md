@@ -65,6 +65,7 @@
 | Samarth-Khatri | [@Samarth-Khatri](https://github.com/Samarth-Khatri). |
 |Soaham12        |[@Soaham12](https://github.com/Soaham12).              |
 | JVBravoo       | [@JVBravoo](https://github.com/JVBravoo).             |
+|Akanksha Singh  |  [@akanksha57](https://github.com/akanksha57).        |
 
 <br><br>
 <a href="https://hacktoberfest.digitalocean.com/">
