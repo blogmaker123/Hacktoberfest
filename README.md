@@ -70,6 +70,7 @@
 |Chandradhar Rao |  [@chandradharrao](https://github.com/chandradharrao).|
 |Vishal Kumar Saw | [@vishal-kumar-saw](https://github.com/vishal-kumar-saw).|
 |Ujwal Kandi   |  [@UjwalKandi](https://github.com/UjwalKandi).          |
+| jacktherock |  [@jacktherock](https://github.com/jacktherock).          |
 <br><br>
 <a href="https://hacktoberfest.digitalocean.com/">
         <img src="https://raw.githubusercontent.com/Saiyam7404/HACKTOBERFEST2021_INSPIRATION/main/src/HacktoberFest2021.png" style="border-radius:8px !important;">
