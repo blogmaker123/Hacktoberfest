@@ -1,0 +1,418 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- CSS Libraries -->
+    <link rel="stylesheet" href="library/bootstrap/bootstrap.min.css">
+    <link rel="stylesheet" href="library/font-awesome/css/font-awesome.css">
+    <link rel="stylesheet" href="css/animate.css">
+    <link rel="stylesheet" href="css/normalize.css">
+    <link rel="stylesheet" href="css/custom.css">
+
+
+    <!-- Title -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Binayak Jha</title>
+    <link rel="icon" href="img/title.png" type="image/png">
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js">
+    </script>
+</head>
+
+<body>
+    <!-- Navigation -->
+    <header>
+
+        <!-- Navbar content -->
+        <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top py-3" style="background-color: #e3f2fd;">
+            <div class="container">
+                <a class="navbar-brand" href="#">
+                    <img src="img/title2.jpg" width="30" height="30" class="d-inline-block align-top" alt=""
+                        style="border-radius:40%;">
+                    Binayak Jha
+                </a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse"
+                    data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
+                    aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav ml-auto">
+                        <li class="nav-item active">
+                            <a class="nav-link" href="#home">Home </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#resume">Resume</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#skills">Skill</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#portfolio">Portfolio</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#contact">Contact</a>
+                        </li>
+
+                    </ul>
+                </div>
+            </div>
+        </nav>
+
+
+    </header>
+
+    <!-- home -->
+
+    <section id="home">
+        <div id="particles-js">
+
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 justify-content-center">
+                    <h1 id="name">John Doe</h1>
+                    <h2 id="tagline">I am a
+                        <span class="txt-rotate" data-period="2000"
+                            data-rotate='[ "Website designer.", "Website-developer.", "Computer Enthusiast." ]'>
+                        </span>
+                    </h2>
+                    <script>
+                        var TxtRotate = function (el, toRotate, period) {
+                            this.toRotate = toRotate;
+                            this.el = el;
+                            this.loopNum = 0;
+                            this.period = parseInt(period, 10) || 2000;
+                            this.txt = '';
+                            this.tick();
+                            this.isDeleting = false;
+                        };
+
+                        TxtRotate.prototype.tick = function () {
+                            var i = this.loopNum % this.toRotate.length;
+                            var fullTxt = this.toRotate[i];
+
+                            if (this.isDeleting) {
+                                this.txt = fullTxt.substring(0, this.txt.length - 1);
+                            } else {
+                                this.txt = fullTxt.substring(0, this.txt.length + 1);
+                            }
+
+                            this.el.innerHTML = '<span class="wrap">' + this.txt + '</span>';
+
+                            var that = this;
+                            var delta = 300 - Math.random() * 100;
+
+                            if (this.isDeleting) { delta /= 2; }
+
+                            if (!this.isDeleting && this.txt === fullTxt) {
+                                delta = this.period;
+                                this.isDeleting = true;
+                            } else if (this.isDeleting && this.txt === '') {
+                                this.isDeleting = false;
+                                this.loopNum++;
+                                delta = 500;
+                            }
+
+                            setTimeout(function () {
+                                that.tick();
+                            }, delta);
+                        };
+
+                        window.onload = function () {
+                            var elements = document.getElementsByClassName('txt-rotate');
+                            for (var i = 0; i < elements.length; i++) {
+                                var toRotate = elements[i].getAttribute('data-rotate');
+                                var period = elements[i].getAttribute('data-period');
+                                if (toRotate) {
+                                    new TxtRotate(elements[i], JSON.parse(toRotate), period);
+                                }
+                            }
+                            // INJECT CSS
+                            var css = document.createElement("style");
+                            css.type = "text/css";
+                            css.innerHTML = ".txt-rotate > .wrap { border-right: 0.09em solid #fff }";
+                            document.body.appendChild(css);
+                        };
+                    </script>
+                    <br>
+                    <a href="#resume" id="learn-more"><i class="fa fa-angle-down"></i> &nbsp; Learn More</a>
+                </div>
+            </div>
+
+        </div>
+    </section>
+    <br>
+    <!-- resume -->
+    <section id="resume">
+        <div class="container">
+            <div class="row">
+                <br>
+                <h2 class="title text-center w-100">Hi I am
+                    <span class="txt-rotate" id="text2" data-period="2000"
+                        data-rotate='[ "John Doe", "Harry Doe." ]'> </span>
+                </h2>
+                <p class="about  text-center w-75 mx-auto">I am a Computer enthusiast.I love to play with computer and
+                    in
+                    this Covid-19 pandemic I learnt many types of Programming language like CSS, JAVA, HTML5 etc.</p>
+            </div>
+            <div class="row">
+                <h2 class="title text-center w-75 mx-auto" data-aos="fade-left">And I love.</h2>
+            </div>
+            <br>
+
+            <div class="row" id="row">
+                <div class="col-md-4 py-2" data-aos="flip-right">
+                    <div class="card" style="max-width: 18rem;">
+                        <img class="card-img-top" src="https://source.unsplash.com/750x600/?programmer,programming"
+                            alt="Programming">
+                        <div class="card-body">
+                            <h5 class="card-title">Programming</h5>
+                            <p class="card-text">I love programming. And since Interested in it I learnt many
+                                Programming Language like HTML5, CSS, JavaScript,Bootstrap, PHP, etc </p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4 py-2" data-aos="flip-up">
+                    <div class="card" style="max-width: 18rem;">
+                        <img class="card-img-top" src="https://source.unsplash.com/750x600/?blogging,content-writing"
+                            alt="Blogging">
+                        <div class="card-body">
+                            <h5 class="card-title">Blogging</h5>
+                            <p class="card-text">I love blogging. And since Interested in it I learnt many things
+                                like
+                                SEO , Content writing and I have made many blogs </p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4 py-2" data-aos="flip-left">
+                    <div class="card" style="max-width: 18rem;">
+                        <img class="card-img-top" src="https://images.pexels.com/photos/39284/macbook-apple-imac-computer-39284.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" alt="website" style="height:231px;">
+                        <div class="card-body">
+                            <h5 class="card-title">Making Websites</h5>
+                            <p class="card-text">I love making websites. And because of that I make many websites.And I am also learning backend development. </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </div>
+    </section>
+    <script>
+        AOS.init({
+            duration: 1200,
+        })
+    </script>
+    <!-- Skills -->
+    <section id="skills">
+        <div class="row">
+            <h2 class="title text-center w-75 mx-auto" data-aos="flip-in">My Skills</h2>
+        </div>
+        <div class="container">
+            <h3>HTML and HTML5</h3> 
+            <div class="progress" data-aos="fade-right">
+              <div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:100%">
+                100%
+              </div>
+            </div>
+            <br>
+            <h3>CSS3</h3> 
+            <div class="progress" data-aos="fade-left">
+              <div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:100%">
+                100%
+              </div>
+            </div>
+            <br>
+            <h3>JavaScript</h3> 
+            <div class="progress" data-aos="fade-right">
+              <div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:80%">
+                80%
+              </div>
+            </div>
+            <br>
+           
+            <h3>PHP</h3> 
+            <div class="progress" data-aos="fade-right">
+              <div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:40%">
+                40%
+              </div>
+            </div>
+            <br>
+             <h3>Bootstrap</h3> 
+            <div class="progress" data-aos="fade-left">
+              <div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:100%">
+                100%
+              </div>
+            </div>
+            <h3>SQL</h3> 
+            <div class="progress" data-aos="fade-right">
+              <div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:100%">
+                100%
+              </div>
+            </div>
+            <h3>Python</h3> 
+            <div class="progress" data-aos="fade-right">
+              <div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:100%">
+                100%
+              </div>
+            </div>
+            <br>
+              <h3>Django</h3> 
+            <div class="progress" data-aos="fade-right">
+              <div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:100%">
+                70%
+              </div>
+            </div>
+            
+          </div>
+      
+    </section>
+    <!-- portfolio -->
+
+    <section id="portfolio">
+        <div class="container">
+            <div class="row">
+                <h2 class="title text-center w-75 mx-auto">What I have Done?</h2>
+            </div>
+            <div class="row" id="row1">
+                <div class="col-md-4" data-aos="fade-up">
+                    <div class="grid">
+                        <img src="img/programming.jpg" alt="Programming">
+                        <div class="overlay">
+                            <div class="text">
+                                Programming
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4" data-aos="fade-in">
+                    <div class="grid">
+                        <img src="img/title2.jpg" alt="Youtube Channel-Coding jha">
+                        <div class="overlay">
+                            <div class="text">
+                              <a href="https://www.youtube.com/" target="_blank"> Youtube Videos</a> 
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4" data-aos="fade-down">
+                    <div class="grid">
+                        <img src="https://source.unsplash.com/750x600/?blogging,content-writing" alt="blogging">
+                        <div class="overlay">
+                            <div class="text">
+                                <a href="http://blogspot.com/" target="_blank"> Blogging</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4" data-aos="fade-down">
+                    <div class="grid">
+                        <img src="img/news.jpg" alt="Live News">
+                        <div class="overlay">
+                            <div class="text">
+                               <a href="https://blogspot.com/" target="_blank"> News Website</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4" data-aos="fade-in">
+                    <div class="grid">
+                        <img src="img/tools.jpg" alt="tools">
+                        <div class="overlay">
+                            <div class="text">
+                              <a href="https://freefancytext2020.blogspot.com/"> Tools Made By me</a> 
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="grid" data-aos="fade-up">
+                        <img src="https://source.unsplash.com/750x600/?plants,nature" alt="Nature">
+                        <div class="overlay">
+                            <div class="text">
+                                More comming soon
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- contact -->
+    <section id="contact">
+        <div class="container">
+            <div class="row">
+                <h2 class="title text-center w-75 mx-auto">Say Hi To Me!!</h2>
+            </div>
+            <form  action="" method="POST">
+                <div class="row py-4" data-aos="flip-left">
+                    <div class="form-group col-md-6">
+                        <input type="text" name="name" class="form-control" placeholder="Enter Your Name...">
+                    </div>
+                    <div class="form-group col-md-6">
+                        <input type="email" name="email" class="form-control" placeholder="someone@example.com">
+                    </div>
+                    <div class="form-group col-md-12">
+                        <textarea class="form-control" name="message" rows="3"
+                            placeholder="Enter your Message..."></textarea>
+                    </div>
+                    <button type="submit" class="btn btn-block submit-message">Submit</button>
+            </form>
+        </div>
+    </section>
+    <!-- footer -->
+    <footer>
+        <div class="contain">
+           
+            <div class="row">
+                <br>
+                <div class="col-md-5"data-aos="fade-right">
+                    <ul>
+                        <li><strong>Email:</strong>&nbsp;abc@gmail.com</li>
+                        <li><strong>Phone:</strong>&nbsp;9122443343</li>
+                    </ul>
+                </div>
+                <div class="col-md-2" data-aos="fade-in">
+                    <a href="#home" class="back-to-top"><i class="fa fa-arrow-circle-up fa-3x"></i></a>
+                </div>
+                <div class="col-md-5" data-aos="fade-left">
+                    <ul id="social">
+                        <li><a href="https://www.facebook.com/binayak.jha.9847/" target="_blank"><i
+                                    class="fa fa-facebook-square"></i></a></li><br>
+                        <li><a href="pinterest.com/jha36binayak" target="_blank"><i class="fa fa-pinterest"></i></a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            
+            <div class="row">
+                <div class="col-md-6">
+                    <a href="https://codingjha.weebly.com/" target="_blank">Designed and built by Binayak jha</a>
+                    <br>
+                </div>
+                <div class="col-md-6">
+                    <p>Copyright &copy; Binayak Jha.</p>
+                </div> 
+                </div>
+        </div>
+    </footer>
+
+
+
+    <!-- JS libraries -->
+    <script src="js/jquery-3.1.1.min.js"></script>
+    <script src="js/bootstrap.min.js"> </script>
+    <script src="js/smooth-scroll.js"></script>
+    <script src="js/wow.js"></script>
+    <script src="js/particles.js"></script>
+    <script src="js/app.js"></script>
+
+</body>
+
+</html>
