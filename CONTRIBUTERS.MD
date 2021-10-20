@@ -38,3 +38,4 @@
 |Chandradhar Rao |  [@chandradharrao](https://github.com/chandradharrao).|
 |Vishal Kumar Saw| [@vishal-kumar-saw](https://github.com/vishal-kumar-saw).|
 |Ujwal Kandi   |  [@UjwalKandi](https://github.com/UjwalKandi).          |
+| jacktherock |  [@jacktherock](https://github.com/jacktherock).          |
