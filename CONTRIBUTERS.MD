@@ -41,3 +41,4 @@
 | jacktherock |  [@jacktherock](https://github.com/jacktherock).         |
 |Joseph2001-braganza |  [@Joseph2001-braganza](https://github.com/Joseph2001-braganza).|
 |AmritanshSingh |  [@AmritanshSingh](https://github.com/AmritanshSingh). |
+|Prateiku | [@Prateiku](https://github.com/prateiku). |
