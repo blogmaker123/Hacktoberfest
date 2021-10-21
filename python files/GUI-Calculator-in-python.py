@@ -5,6 +5,7 @@
 from tkinter import * #Importing GUI operator in python
 expression = ""
 
+
 def press(num): # creating a operator for button
     global expression
     expression = expression + str(num)
@@ -24,9 +25,13 @@ def clear():
     equation.set("")
 if __name__ == "__main__":
     gui = Tk()# taking tkinter
+    x_Left = int(gui.winfo_screenwidth() / 2 - 400 / 2)  # x and left coordinates of the root window
+    y_Top = int(gui.winfo_screenheight() / 2 - 300 / 2)  # y and top coordinates of the root window
     gui.configure(background="light grey")# adding background colour
-    gui.title("Prashim Calculator") # adding the program name
-   # gui.geometry("430x210") #the geometric size
+    gui.title("GUI Calculator") # adding the program name
+    gui.geometry(f'380x200+{x_Left}+{y_Top}')  # set new geometry
+    gui.resizable(0, 0)  # Indicates that window is non resizable
+    #gui.geometry("430x210") #the geometric size
     equation = StringVar() # givinng a name to string variable
     expression_field = Entry(gui, textvariable=equation, font=("arial", 15), width= 10, border=5) # Adding a text variable type
     expression_field.grid(columnspan=3, ipadx=80) # adding the size for the textbar
