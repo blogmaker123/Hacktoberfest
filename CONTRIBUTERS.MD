@@ -42,3 +42,4 @@
 |Joseph2001-braganza |  [@Joseph2001-braganza](https://github.com/Joseph2001-braganza).|
 |AmritanshSingh |  [@AmritanshSingh](https://github.com/AmritanshSingh). |
 |Prateiku | [@Prateiku](https://github.com/prateiku). |
+| Rupak Biswas | [@rupak2001](https://github.com/rupak2001).             |
