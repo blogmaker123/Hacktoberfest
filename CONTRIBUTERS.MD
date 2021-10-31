@@ -47,3 +47,5 @@
 | Manish Das     | [@Manish-bitpirate ](https://github.com/Manish-bitpirate).|
 | Ibad Mukrom   | [@dev-abir](https://github.com/IbadMukrom).             |
 |Vaishnavi      |.[@vaishnavi-170701].(https://github.com/vaishnavi-170701). |
+| Supritha Ravishankar   | [@supzi-del](https://github.com/supzi-del).    |
+| Shrijal Shrestha   | [@shrijalshr](https://github.com/shrijalshr).      |
