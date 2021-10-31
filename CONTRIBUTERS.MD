@@ -46,5 +46,6 @@
 | Abir Ganguly   | [@dev-abir](https://github.com/dev-abir).             |
 | Manish Das     | [@Manish-bitpirate ](https://github.com/Manish-bitpirate).|
 | Ibad Mukrom   | [@dev-abir](https://github.com/IbadMukrom).             |
-| Shrijal Shrestha   | [@shrijalshr](https://github.com/shrijalshr).             |
+| Supritha Ravishankar   | [@supzi-del](https://github.com/supzi-del).    |
+| Shrijal Shrestha   | [@shrijalshr](https://github.com/shrijalshr).      |
 
