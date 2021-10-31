@@ -32,6 +32,7 @@
 
 ## Contributers Till Now
 
+
 | Name           | Github                                                |
 | -------------- | ----------------------------------------------------- |
 | BinayakJha     | [@BinayakJha](https://github.com/BinayakJha).         |
@@ -65,16 +66,24 @@
 | Samarth-Khatri | [@Samarth-Khatri](https://github.com/Samarth-Khatri). |
 |Soaham12        |[@Soaham12](https://github.com/Soaham12).              |
 | JVBravoo       | [@JVBravoo](https://github.com/JVBravoo).             |
+|Anish_Shilpakar | [@juju2181](https://github.com/juju2181).             |
 |Akanksha Singh  |  [@akanksha57](https://github.com/akanksha57).        |
 |Vishal Sharma   |  [@mrvishalsharma](https://github.com/mrvishalsharma).|
 |Chandradhar Rao |  [@chandradharrao](https://github.com/chandradharrao).|
-|Vishal Kumar Saw | [@vishal-kumar-saw](https://github.com/vishal-kumar-saw).|
+|Vishal Kumar Saw| [@vishal-kumar-saw](https://github.com/vishal-kumar-saw).|
 |Ujwal Kandi   |  [@UjwalKandi](https://github.com/UjwalKandi).          |
-|jacktherock |  [@jacktherock](https://github.com/jacktherock).          |
+| jacktherock |  [@jacktherock](https://github.com/jacktherock).         |
 |Joseph2001-braganza |  [@Joseph2001-braganza](https://github.com/Joseph2001-braganza).|
 |AmritanshSingh |  [@AmritanshSingh](https://github.com/AmritanshSingh). |
 |Prateiku | [@Prateiku](https://github.com/prateiku).                    |
 | Rupak Biswas | [@rupak2001](https://github.com/rupak2001).             |
+| Abir Ganguly   | [@dev-abir](https://github.com/dev-abir).             |
+| Manish Das     | [@Manish-bitpirate ](https://github.com/Manish-bitpirate).|
+| Ibad Mukrom   | [@dev-abir](https://github.com/IbadMukrom).             |
+|Vaishnavi      |.[@vaishnavi-170701].(https://github.com/vaishnavi-170701). |
+| Supritha Ravishankar   | [@supzi-del](https://github.com/supzi-del).    |
+| Shrijal Shrestha   | [@shrijalshr](https://github.com/shrijalshr).      |
+
 <br><br>
 <a href="https://hacktoberfest.digitalocean.com/">
         <img src="https://raw.githubusercontent.com/Saiyam7404/HACKTOBERFEST2021_INSPIRATION/main/src/HacktoberFest2021.png" style="border-radius:8px !important;">
